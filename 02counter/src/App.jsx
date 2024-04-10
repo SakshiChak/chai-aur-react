@@ -3,8 +3,8 @@ import { useState } from 'react';
 import './App.css'
 
 function App() {
-  // Use useState hook to create a state variable 'counter' with initial value 15
-  const [counter, setCounter] = useState(10);  // let counter = 15
+  // Use useState hook to create a state variable 'counter' with initial value 10
+  const [counter, setCounter] = useState(10);  // let counter = 10
 
   // Function to increment the counter value
   const addValue = () => {
