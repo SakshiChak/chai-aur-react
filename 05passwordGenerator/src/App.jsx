@@ -53,7 +53,7 @@ function App() {
 					Copy
 				</button>
 			</div>
-			<div className="flex text-xl gap-x-2">
+			<div className="flex text-xl gap-x-2 mb-5">
 				<div className="flex items-center gap-x-2">
 					<input
 						type="range"
